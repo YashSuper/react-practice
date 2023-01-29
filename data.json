@@ -1,0 +1,535 @@
+[
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "54538",
+      "name": "Roll Express",
+      "uuid": "47b0d2fe-0a7d-4dad-b5e0-f27569e486bb",
+      "city": "12",
+      "area": "Mansarovar",
+      "totalRatingsString": "500+ ratings",
+      "cloudinaryImageId": "kaek628utavrkfxkdnb7",
+      "cuisines": [
+        "Fast Food",
+        "Snacks",
+        "North Indian",
+        "Chinese",
+        "Mughlai",
+        "Lucknowi",
+        "Combo",
+        "Beverages",
+        "Grill",
+        "Continental"
+      ],
+      "tags": [],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 18,
+      "minDeliveryTime": 18,
+      "maxDeliveryTime": 18,
+      "slaString": "18 MINS",
+      "lastMileTravel": 0.5,
+      "slugs": {
+        "restaurant": "roll-express-manasarovar-manasarovar",
+        "city": "jaipur"
+      },
+      "cityState": "12",
+      "address": "Shop 18, Sector 7, Shopping Centre, Patel Marg, Madhyam Marg, Mansarovar, Jaipur",
+      "locality": "Manasarovar",
+      "parentId": 16561,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [],
+      "aggregatedDiscountInfo": {
+        "header": "50% off",
+        "shortDescriptionList": [
+          {
+            "meta": "50% off on all orders",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          },
+          {
+            "meta": "FREE DELIVERY",
+            "discountType": "FREE_DELIVERY",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "50% off on all orders",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          },
+          {
+            "meta": "FREE DELIVERY",
+            "discountType": "FREE_DELIVERY",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "50% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Free Delivery",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "50% off on all orders",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          },
+          {
+            "meta": "FREE DELIVERY",
+            "discountType": "FREE_DELIVERY",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [],
+      "feeDetails": {
+        "fees": [],
+        "totalFees": 0,
+        "message": "",
+        "title": "",
+        "amount": "",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+      },
+      "lastMileTravelString": "0.5 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "54538",
+        "deliveryTime": 18,
+        "minDeliveryTime": 18,
+        "maxDeliveryTime": 18,
+        "lastMileTravel": 0.5,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.9",
+      "totalRatings": 500,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "64320",
+      "name": "Rominus Pizza And Burger",
+      "uuid": "35ed8f49-df0e-443d-8791-e39f3da12e4f",
+      "city": "12",
+      "area": "Mansarovar",
+      "totalRatingsString": "500+ ratings",
+      "cloudinaryImageId": "yedcmzxcrxbfxftxr6hu",
+      "cuisines": [
+        "Pizzas",
+        "American",
+        "Italian-American",
+        "Barbecue",
+        "Snacks",
+        "Combo",
+        "Grill",
+        "Italian",
+        "Pastas",
+        "Sweets",
+        "Desserts",
+        "Beverages"
+      ],
+      "tags": [],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 23,
+      "minDeliveryTime": 23,
+      "maxDeliveryTime": 23,
+      "slaString": "23 MINS",
+      "lastMileTravel": 0.8999999761581421,
+      "slugs": {
+        "restaurant": "rominos-pizza-madhyam-marg-mansarovar-extension",
+        "city": "jaipur"
+      },
+      "cityState": "12",
+      "address": "Okay Plus Square, Mansarovar Sector 7, Agarwal Farm, Sector 9, Mansarovar, Jaipur",
+      "locality": "Mansarovar",
+      "parentId": 8387,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [],
+      "aggregatedDiscountInfo": {
+        "header": "60% off",
+        "shortDescriptionList": [
+          {
+            "meta": "60% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "60% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [],
+      "feeDetails": {
+        "fees": [],
+        "totalFees": 0,
+        "message": "",
+        "title": "",
+        "amount": "",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+      },
+      "lastMileTravelString": "0.8 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "64320",
+        "deliveryTime": 23,
+        "minDeliveryTime": 23,
+        "maxDeliveryTime": 23,
+        "lastMileTravel": 0.8999999761581421,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.8",
+      "totalRatings": 500,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "528813",
+      "name": "Bakingo",
+      "uuid": "fd1704a6-946e-45fb-a7c0-773fe2707ca7",
+      "city": "12",
+      "area": "Mansarovar",
+      "totalRatingsString": "500+ ratings",
+      "cloudinaryImageId": "tmhaokxkj2uzqnfq8b4v",
+      "cuisines": ["Bakery", "Desserts", "Beverages", "Snacks"],
+      "tags": [],
+      "costForTwo": 29900,
+      "costForTwoString": "₹299 FOR TWO",
+      "deliveryTime": 19,
+      "minDeliveryTime": 19,
+      "maxDeliveryTime": 19,
+      "slaString": "19 MINS",
+      "lastMileTravel": 1.399999976158142,
+      "slugs": {
+        "restaurant": "bakingo-jaipur-manasarovar",
+        "city": "jaipur"
+      },
+      "cityState": "12",
+      "address": "111, 395C, Shipra Path, Jhalana Chhod, Mansarovar, Jaipur, Rajasthan 302020",
+      "locality": "Jaipur",
+      "parentId": 3818,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [],
+      "aggregatedDiscountInfo": {
+        "header": "50% off",
+        "shortDescriptionList": [
+          {
+            "meta": "50% off | Use WELCOME50",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "50% off up to ₹90 | Use code WELCOME50",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "50% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use WELCOME50",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "50% off up to ₹90 | Use code WELCOME50",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "ribbon": [
+        {
+          "type": "PROMOTED"
+        }
+      ],
+      "chain": [],
+      "feeDetails": {
+        "fees": [],
+        "totalFees": 0,
+        "message": "",
+        "title": "",
+        "amount": "",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "cid=5716033~p=4~eid=00000185-b02a-ed17-3886-3f3c00310431",
+      "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+      },
+      "lastMileTravelString": "1.3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "528813",
+        "deliveryTime": 19,
+        "minDeliveryTime": 19,
+        "maxDeliveryTime": 19,
+        "lastMileTravel": 1.399999976158142,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": true,
+      "avgRating": "4.4",
+      "totalRatings": 500,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "54457",
+      "name": "Harishankar Veg Restro",
+      "uuid": "d3703922-8fb0-4bf4-8188-b6bfe1768459",
+      "city": "12",
+      "area": "Vijay Path",
+      "totalRatingsString": "1000+ ratings",
+      "cloudinaryImageId": "vdctgowhacrlds5jmvzv",
+      "cuisines": [
+        "North Indian",
+        "South Indian",
+        "Chinese",
+        "Thalis",
+        "Chaat",
+        "Jain",
+        "Snacks",
+        "Fast Food",
+        "Pizzas",
+        "Pastas",
+        "Biryani",
+        "Beverages"
+      ],
+      "tags": [],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 18,
+      "minDeliveryTime": 18,
+      "maxDeliveryTime": 18,
+      "slaString": "18 MINS",
+      "lastMileTravel": 1,
+      "slugs": {
+        "restaurant": "harishankar-veg-restro-vijay-path-manasarovar",
+        "city": "jaipur"
+      },
+      "cityState": "12",
+      "address": "104/76, Vijay Path, Mansarovar, Jaipur",
+      "locality": "Sector 101",
+      "parentId": 4864,
+      "unserviceable": false,
+      "veg": true,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [],
+      "aggregatedDiscountInfo": {
+        "header": "60% off",
+        "shortDescriptionList": [
+          {
+            "meta": "60% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "60% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [],
+      "feeDetails": {
+        "fees": [],
+        "totalFees": 0,
+        "message": "",
+        "title": "",
+        "amount": "",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+      },
+      "lastMileTravelString": "1 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "54457",
+        "deliveryTime": 18,
+        "minDeliveryTime": 18,
+        "maxDeliveryTime": 18,
+        "lastMileTravel": 1,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.9",
+      "totalRatings": 1000,
+      "new": false
+    },
+    "subtype": "basic"
+  }
+]
