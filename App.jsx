@@ -1,15 +1,28 @@
+import { Outlet } from "react-router-dom";
 import dataArr from "./data.json";
 import Card from "./components/Card";
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { RES_API } from "./config";
 import Shimmer from "./components/Shimmer";
+import userContext from "./components/context";
 import Header from "./components/Header";
+
+export const AppLayout = () => {
+  return (
+    <>
+      <Header />
+      <Outlet />
+    </>
+  );
+};
 
 export default function App() {
   const [apiData, setApiData] = useState([]);
   const [resList, setResList] = useState([]);
   const [search, setSearch] = useState("");
   const [loaded, setLoaded] = useState(false);
+
+  let user = useContext(userContext);
 
   useEffect(() => {
     fetchData();
@@ -40,8 +53,9 @@ export default function App() {
 
   return (
     <>
-      <Header />
       <div className="search-container">
+        {user.name}
+        {user.email}
         <input
           type="text"
           value={search}

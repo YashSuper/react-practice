@@ -1,6 +1,14 @@
+a {
+  text-decoration: none;
+  color: #141414;
+}
+
 html,
 body {
   color: #333;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -25,6 +33,21 @@ img {
 .card-img {
   opacity: 0;
   transition: opacity 0.3s ease;
+}
+
+header {
+  background-color: #141414;
+  color: white;
+}
+
+.navbar {
+  color: white !important;
+  list-style: none;
+  margin: 0 0 15px;
+  padding: 15px;
+}
+.navbar a {
+  color: white;
 }
 
 .loaded {
